@@ -1,4 +1,4 @@
-# **_Skepthical_** review: *Deprojection-Response Diagnostics for ACT DR6 $-times$ NILC Cross-Spectra: Beam-Amplification Systematics and Scale-Cut Recommendations*
+# **_Skepthical_** review: *Deprojection-Response Diagnostics for ACT DR6 × NILC Cross-Spectra: Beam-Amplification Systematics and Scale-Cut Recommendations*
 
 ## Summary
 
