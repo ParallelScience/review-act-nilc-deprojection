@@ -1,0 +1,9 @@
+{
+  "soundness": 5,
+  "novelty": 5,
+  "significance": 6,
+  "clarity": 6,
+  "evidence_quality": 5,
+  "overall": 5,
+  "justification": "The paper tackles a timely, practically useful validation of ACT DR6\u00d7NILC cross-spectra and provides coherent diagnostics and null tests that support robust use up to \u2113 \u2264 1500 with a reasonable scale-cut recommendation. However, the Mathematical Consistency Audit flags a concrete error in the beam-uncertainty propagation for the ratio (Eq. 7; FAIL) and uncaptured cancellations, and highlights ambiguities in how transfer functions and beams are applied and cancel in R_b(\u2113), which weaken the interpretability of the pa4_f220 attribution and parts of the error budget. The Numerical Results Audit could not independently reproduce the reported values, and the review notes insufficient simulation and reproducibility detail, incomplete null-test reporting across channels, and a lack of quantitative impact assessment of the proposed cuts. Overall, this is a useful but below-threshold contribution pending fixes that clarify the algebra, uncertainty propagation, simulation methodology, and quantitative robustness checks."
+}
